@@ -1,0 +1,8 @@
+python
+pandas
+flask
+Werkzeug 
+numpy
+sklearn
+
+
